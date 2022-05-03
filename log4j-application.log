@@ -1,0 +1,25 @@
+2021-07-11 08:49:47,225 DEBUG [main] ResolutionCache:187 - Resolution chrome=91 in cache (valid until 09:17:22 11/07/2021 IST)
+2021-07-11 08:49:47,234 DEBUG [main] ResolutionCache:187 - Resolution chrome91=91.0.4472.101 in cache (valid until 23:31:25 11/07/2021 IST)
+2021-07-11 08:49:47,235  INFO [main] WebDriverManager:632 - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-11 08:49:47,266 DEBUG [main] WebDriverManager:588 - Driver chromedriver 91.0.4472.101 found in cache
+2021-07-11 08:49:47,267  INFO [main] WebDriverManager:689 - Exporting webdriver.chrome.driver as C:\Users\heman\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-11 08:51:08,202 DEBUG [main] ResolutionCache:187 - Resolution chrome=91 in cache (valid until 09:17:22 11/07/2021 IST)
+2021-07-11 08:51:08,215 DEBUG [main] ResolutionCache:187 - Resolution chrome91=91.0.4472.101 in cache (valid until 23:31:25 11/07/2021 IST)
+2021-07-11 08:51:08,216  INFO [main] WebDriverManager:632 - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-11 08:51:08,241 DEBUG [main] WebDriverManager:588 - Driver chromedriver 91.0.4472.101 found in cache
+2021-07-11 08:51:08,243  INFO [main] WebDriverManager:689 - Exporting webdriver.chrome.driver as C:\Users\heman\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-11 08:52:46,439 DEBUG [main] ResolutionCache:187 - Resolution chrome=91 in cache (valid until 09:17:22 11/07/2021 IST)
+2021-07-11 08:52:46,450 DEBUG [main] ResolutionCache:187 - Resolution chrome91=91.0.4472.101 in cache (valid until 23:31:25 11/07/2021 IST)
+2021-07-11 08:52:46,452  INFO [main] WebDriverManager:632 - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-11 08:52:46,473 DEBUG [main] WebDriverManager:588 - Driver chromedriver 91.0.4472.101 found in cache
+2021-07-11 08:52:46,475  INFO [main] WebDriverManager:689 - Exporting webdriver.chrome.driver as C:\Users\heman\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-11 08:54:09,746 DEBUG [main] ResolutionCache:187 - Resolution chrome=91 in cache (valid until 09:17:22 11/07/2021 IST)
+2021-07-11 08:54:09,754 DEBUG [main] ResolutionCache:187 - Resolution chrome91=91.0.4472.101 in cache (valid until 23:31:25 11/07/2021 IST)
+2021-07-11 08:54:09,757  INFO [main] WebDriverManager:632 - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-11 08:54:09,773 DEBUG [main] WebDriverManager:588 - Driver chromedriver 91.0.4472.101 found in cache
+2021-07-11 08:54:09,774  INFO [main] WebDriverManager:689 - Exporting webdriver.chrome.driver as C:\Users\heman\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-07-11 08:56:54,333 DEBUG [main] ResolutionCache:187 - Resolution chrome=91 in cache (valid until 09:17:22 11/07/2021 IST)
+2021-07-11 08:56:54,337 DEBUG [main] ResolutionCache:187 - Resolution chrome91=91.0.4472.101 in cache (valid until 23:31:25 11/07/2021 IST)
+2021-07-11 08:56:54,339  INFO [main] WebDriverManager:632 - Using chromedriver 91.0.4472.101 (resolved driver for Chrome 91)
+2021-07-11 08:56:54,361 DEBUG [main] WebDriverManager:588 - Driver chromedriver 91.0.4472.101 found in cache
+2021-07-11 08:56:54,363  INFO [main] WebDriverManager:689 - Exporting webdriver.chrome.driver as C:\Users\heman\.cache\selenium\chromedriver\win32\91.0.4472.101\chromedriver.exe
